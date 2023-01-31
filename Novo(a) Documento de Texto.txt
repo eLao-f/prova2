@@ -1,3 +1,0 @@
-git add .               salvar
-git commit -m "nome"    atualizar repositório
-git push -u             enviar pro gitHub
